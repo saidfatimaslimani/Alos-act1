@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "nom_section": "Fastenal"
+    },
+    {
+        "id": 1,
+        "nom_section": "Ecolab"
+    },
+    {
+        "id": 2,
+        "nom_section": "Gap"
+    },
+    {
+        "id": 3,
+        "nom_section": "USAA"
+    },
+    {
+        "id": 4,
+        "nom_section": "Alliance Holdings"
+    }
+]

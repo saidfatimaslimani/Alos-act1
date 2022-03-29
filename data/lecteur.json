@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "code_lecteur": 24,
+        "matricule": 76,
+        "nom": "Ora Gaylord",
+        "telephone": "749-910-0745",
+        "email": "Harvey48@hotmail.com",
+        "titre": "National Infrastructure Planner"
+    },
+    {
+        "id": 1,
+        "code_lecteur": 34,
+        "matricule": 40,
+        "nom": "Alberto Mayer",
+        "telephone": "213-349-2904",
+        "email": "Theodore_Bednar@hotmail.com",
+        "titre": "Corporate Functionality Developer"
+    },
+    {
+        "id": 2,
+        "code_lecteur": 22,
+        "matricule": 71,
+        "nom": "Ramiro Stehr",
+        "telephone": "914-146-7136",
+        "email": "Casimir_Purdy@gmail.com",
+        "titre": "Direct Configuration Engineer"
+    },
+    {
+        "id": 3,
+        "code_lecteur": 73,
+        "matricule": 4,
+        "nom": "Carroll Bednar",
+        "telephone": "429-847-8313",
+        "email": "Antonio_Howe82@hotmail.com",
+        "titre": "Senior Paradigm Associate"
+    },
+    {
+        "id": 4,
+        "code_lecteur": 49,
+        "matricule": 54,
+        "nom": "Hugo Beahan",
+        "telephone": "495-849-6677",
+        "email": "Otto89@gmail.com",
+        "titre": "Chief Optimization Coordinator"
+    }
+]

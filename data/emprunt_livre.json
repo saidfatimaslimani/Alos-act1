@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "date_emprunt": "2022-03-29",
+        "code_emprunt": 79,
+        "code_lecteur": 84,
+        "code_livre": 81,
+        "id_lecteur": 0,
+        "id_livre": 0,
+        "date_retour": "2022-03-29",
+        "titre": "Product Assurance Associate"
+    },
+    {
+        "id": 1,
+        "date_emprunt": "2022-03-30",
+        "code_emprunt": 84,
+        "code_lecteur": 94,
+        "code_livre": 38,
+        "id_lecteur": 1,
+        "id_livre": 1,
+        "date_retour": "2022-03-30",
+        "titre": "Chief Data Strategist"
+    },
+    {
+        "id": 2,
+        "date_emprunt": "2022-03-31",
+        "code_emprunt": 96,
+        "code_lecteur": 6,
+        "code_livre": 30,
+        "id_lecteur": 2,
+        "id_livre": 2,
+        "date_retour": "2022-03-31",
+        "titre": "Investor Intranet Orchestrator"
+    },
+    {
+        "id": 3,
+        "date_emprunt": "2022-04-01",
+        "code_emprunt": 87,
+        "code_lecteur": 16,
+        "code_livre": 36,
+        "id_lecteur": 3,
+        "id_livre": 3,
+        "date_retour": "2022-04-01",
+        "titre": "International Research Assistant"
+    },
+    {
+        "id": 4,
+        "date_emprunt": "2022-04-02",
+        "code_emprunt": 71,
+        "code_lecteur": 76,
+        "code_livre": 79,
+        "id_lecteur": 4,
+        "id_livre": 4,
+        "date_retour": "2022-04-02",
+        "titre": "Customer Directives Engineer"
+    }
+]
